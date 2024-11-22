@@ -86,8 +86,7 @@
     background-color:rgb(211, 88, 44);
 }
 
-/* 
-/* For tablets and medium-sized screens 
+
 @media (max-width: 768px) {
     .component1 {
         width: 60vw;
@@ -110,7 +109,7 @@
     }
 }
 
-/* For mobile and small screens 
+
 @media (max-width: 480px) {
     .component1 {
         width: 90vw;
@@ -132,4 +131,4 @@
     #msg {
         font-size: 3vmin;
     }
-} */
+} 
